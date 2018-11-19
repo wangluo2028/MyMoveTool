@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DC7E7924-4720-47E3-BB96-9FBED48CD5BF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyMoveTool",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
